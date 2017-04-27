@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>funday abasia institute</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+    <!-- Bootstrap -->
+    <link href="Design/front/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Design/front/css/prettify.css" rel="stylesheet">
+    <link href="Design/front/css/style.css" rel="stylesheet">
+    <link href="Design/front/css/check.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/v3.3.4/dist/css/bootstrap-rtl.min.css">
+    <link rel="preconnect" href="//cdnjs.cloudflare.com">
+    <link rel="preconnect" href="//fonts.googleapis.com">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="Design/front/image/aRCHERY.3.jpg"/>
+    <link href="https://fonts.googleapis.com/css?family=Lalezar" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rakkas" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Harmattan" rel="stylesheet">
+    <style>a{color: #2c63cc;}  a:hover,a:focus{color: #3c8bae;outline:none;}</style>
+</head>
+<body>
+    <div class="section text-center">
+        <img src="Design/front/image/aRCHERY.3.jpg" width="400px" class="img-responsive img-circle img-thumbnail img-rounded"/>
+        <blockquote class="text-muted arabic3" style="max-width: 600px; margin: auto; font-size: 25px">
+            الfunday هو يوم كده هنتجمع فية بما ان ديت هتبقي اخر سنة لينا في المعهد و هنلبس تي شيرت تخرج و كمان و هنجيب الوان
+            و نغرق بعض بيها :D
+    <BR>
+            لو انت حابب تنضم معانا هتملي الفورم ديت
+            <br>
+             بس خد بالك انه فاضل  <b style="color: #2c63cc"><?php echo $numberDays;  ?></b> ايام على انتهاء التسجيل :(
+        </blockquote>
+    </div><br>
+<div class="container center-block">
+    <div class="stepwizard">
+        <div class="stepwizard-row setup-panel">
+            <div class="stepwizard-step">
+                <a href="#step-1" type="button" class="btn btn-primary btn-circle">1</a>
+                <p class="arabic3">الخطوة الاولي</p>
+            </div>
+
+            <div class="stepwizard-step">
+                <a href="#step-2" type="button" class="btn btn-default btn-circle" disabled="disabled">2</a>
+                <p class="arabic3">الخطوة الثانية</p>
+            </div>
+            <div class="stepwizard-step">
+                <a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
+                <p class="arabic3">الخطوة الاخيرة <br> هتقابل الوحش :D  </p>
+            </div>
+
+        </div>
+    </div>
+    <form action="post.php" method="post">
+        <div class="row setup-content" id="step-1">
+            <div class="col-xs-12">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <label class="control-label arabic3 " style="font-size: 20px">الاسم كامل</label>
+                        <input  maxlength="100" name="name" type="text" required="required" class="form-control arabic3" placeholder="الاسم ثلاثي "  />
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label arabic3 " style="font-size: 20px">الاسم الغة الانجليزية</label>
+                        <input  maxlength="100" name="ename" type="text" required="required" class="form-control arabic3" placeholder="full name "  />
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label arabic3 " style="font-size: 20px">رقم المجموعة</label>
+                        <input maxlength="100" type="text" name="number" required="required" class="form-control arabic3" placeholder=" رقم مجموعة مشروع التخرج" />
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label arabic3 " style="font-size: 20px">رقم التلفون</label>
+                        <input maxlength="100" type="text" name="phone" required="required" class="form-control arabic3" placeholder="رقم التلفون المحمول" />
+                    </div>
+                    <div class="form-group">
+                    <label class="control-label arabic3" style="font-size: 20px">الجنس</label><br>
+                        <div class="col-sm-3">
+                            <label class="radio-inline control-label arabic3" style="font-size: 20px">
+                                <input name="gender" required="required" checked="checked"  id="input-gender-male"  class="arabic3" value="Male" type="radio" />ذكر
+                            </label>
+                        </div>
+                        <div class="col-sm-3">
+                            <label class="radio-inline control-label arabic3" style="font-size: 20px">
+                                <input name="gender" required="required"  id="input-gender-female"  class="arabic3" value="Female" type="radio" />انثي
+                            </label>
+                        </div>
+                    </div>
+                        <br>
+                    <div class="form-group">
+                    <label class="control-label arabic3" style="font-size: 20px">مقاس القميص </label>
+                    <div class="form-group">
+                        <div class="col-sm-3">
+                            <label class="radio-inline control-label arabic3" style="font-size: 20px">
+                                <input name="size" required="required" checked="checked"  id="input-s"  class="arabic3" value="small" type="radio" />صغير
+                            </label>
+                        </div>
+                        <div class="col-sm-3">
+                            <label class="radio-inline control-label arabic3" style="font-size: 20px">
+                                <input name="size" required="required"  id="input-med"  class="arabic3" value="med" type="radio" />وسط
+                            </label>
+                        </div>
+                        <div class="col-sm-3">
+                            <label class="radio-inline control-label arabic3" style="font-size: 20px">
+                                <input name="size" required="required"  id="input-lar"  class="arabic3" value="larg" type="radio" />كبير
+                            </label>
+                        </div>
+                    </div>
+                    </div>
+                        <br>
+                    <input class="btn btn-primary nextBtn btn-lg pull-right arabic2" value="التالي" name="next" type="button" >
+                </div>
+            </div>
+        </div>
+
+        <div class="row setup-content" id="step-2">
+            <div class="col-xs-12">
+                <div class="col-md-12">
+
+                    <div class="col-md-6">
+                        <h2 class="arabic3">اختار الى انت محتاجة </h2>
+
+                        <div class="funkyradio">
+                            <div class="funkyradio-primary">
+                                <input type="checkbox" name="t-shirt" value="t-shirt"  id="checkbox2" checked/>
+                                <label for="checkbox2" class="arabic1" style="font-size: 20px;">التي شيرت</label>
+                            </div>
+                            <div class="funkyradio-success">
+                                <input type="checkbox" name="color" value="color" id="checkbox3" />
+                                <label for="checkbox3" class="arabic1" style="font-size: 20px;">الالوان 'الكالر'</label>
+                            </div>
+                            <div class="funkyradio-danger">
+                                <input type="checkbox" name="palon"  value="palon" id="checkbox4" />
+                                <label for="checkbox4" class="arabic1" style="font-size: 20px;">البالونات</label>
+                            </div>
+                            <div class="funkyradio-warning">
+                                <input type="checkbox" name="klaket" value="klaket" id="checkbox5" />
+                                <label for="checkbox5" class="arabic1" style="font-size: 20px;">كلاكيت اخيرا اتخرجت</label>
+                            </div>
+                        </div><br>
+
+                    <button class="btn btn-primary nextBtn btn-lg pull-right arabic2" type="button" >التالي</button>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="row setup-content" id="step-3">
+            <div class="col-xs-12">
+                <div class="col-md-12">
+                    <div class="col-md-6 center-block">
+                        <br>
+                        <input value="تنزيل الاستمارة" class="btn btn-success  btn-lg pull-right arabic3 " type="submit" >
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </form>
+</div>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="Design/front/bootstrap/js/bootstrap.min.js"></script>
+<script src="Design/front/js/jquery.bootstrap.wizard.js"></script>
+<script src="Design/front/js/prettify.js"></script>
+<script>
+    $(document).ready(function () {
+
+        var navListItems = $('div.setup-panel div a'),
+            allWells = $('.setup-content'),
+            allNextBtn = $('.nextBtn');
+
+        allWells.hide();
+
+        navListItems.click(function (e) {
+            e.preventDefault();
+            var $target = $($(this).attr('href')),
+                $item = $(this);
+
+            if (!$item.hasClass('disabled')) {
+                navListItems.removeClass('btn-primary').addClass('btn-default');
+                $item.addClass('btn-primary');
+                allWells.hide();
+                $target.show();
+                $target.find('input:eq(0)').focus();
+            }
+        });
+
+        allNextBtn.click(function(){
+            var curStep = $(this).closest(".setup-content"),
+                curStepBtn = curStep.attr("id"),
+                nextStepWizard = $('div.setup-panel div a[href="#' + curStepBtn + '"]').parent().next().children("a"),
+                curInputs = curStep.find("input[type='text'],input[type='url']"),
+                isValid = true;
+
+            $(".form-group").removeClass("has-error");
+            for(var i=0; i<curInputs.length; i++){
+                if (!curInputs[i].validity.valid){
+                    isValid = false;
+                    $(curInputs[i]).closest(".form-group").addClass("has-error");
+                }
+            }
+
+            if (isValid)
+                nextStepWizard.removeAttr('disabled').trigger('click');
+        });
+
+        $('div.setup-panel div a.btn-primary').trigger('click');
+    });
+</script>
+</body><br>
+<footer><br>
+    <div class="container">
+        <h3 style="text-align:center;border-bottom:solid 1px #eee" class="arabic1">الشركاء</h3>
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div id="Carousel" class="carousel slide">
+
+                    <ol class="carousel-indicators">
+                        <li data-target="#Carousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#Carousel" data-slide-to="1"></li>
+                        <li data-target="#Carousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+
+                        <div class="item active">
+                            <div class="row">
+                                <div class="col-md-4 col-xs-6"><a href="#" class="thumbnail"><img src="Design/front/image/sh.png" alt="Image" style="height:100px;"></a></div>
+                                <div class="col-md-4 col-xs-6"><a href="http://capsulesolution.net" target="_blank" class="thumbnail"><img src="Design/front/image/cs.png" alt="Image" style="height:100px;"></a></div>
+                                <div class="col-md-4 col-xs-6"><a href="#" class="thumbnail"><img src="Design/front/image/abasia.png" alt="Image" style="height:100px;"></a></div>
+                            </div><!--.row-->
+                        </div><!--.item-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            <script>
+                $(document).ready(function() {
+                    $('#Carousel').carousel({
+                        interval: 3000
+                    })
+                });
+            </script>
+    </footer>
+</html>
