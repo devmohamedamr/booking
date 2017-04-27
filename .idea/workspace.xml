@@ -2,7 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f1439a2-dfc2-45ea-8319-400477ea5b33" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Printy.php" afterPath="$PROJECT_DIR$/printy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/404_500_errors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/AdminLTE.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/bootstrap-social.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/boxes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/callout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/control-sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/direct-chat.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/dropdown.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/fullcalendar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/header.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/info-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/invoice.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/lockscreen.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/login_and_register.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/mailbox.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/miscellaneous.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/modal.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/products.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/profile.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/select2.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/sidebar-mini.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/sidebar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/_all-skins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-black-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-black.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-blue-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-blue.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-green-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-green.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-purple-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-purple.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-red-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-red.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-yellow-light.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-yellow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/small-box.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/social-widgets.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/table.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/timeline.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/users-list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,48 +114,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="printy.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/printy.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="154" column="29" lean-forward="false" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/post.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design/front/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -143,15 +203,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\event\Design\front" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\event\Design\back" />
       <recent name="C:\xampp\htdocs\event\lib\pdf" />
       <recent name="C:\xampp\htdocs\event\lib" />
       <recent name="C:\xampp\htdocs\event" />
       <recent name="C:\xampp\htdocs\event\Design\image" />
-      <recent name="C:\xampp\htdocs\event\Design\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\event\Design\front" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -250,12 +310,12 @@
       <updated>1493221105858</updated>
       <workItem from="1493221109132" duration="32445000" />
       <workItem from="1493293139873" duration="1263000" />
-      <workItem from="1493303390685" duration="4303000" />
+      <workItem from="1493303390685" duration="5532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38011000" />
+    <option name="totallyTimeSpent" value="39240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -421,10 +481,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/printy.php">
+    <entry file="file://$PROJECT_DIR$/post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="154" column="29" lean-forward="false" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
+        <state relative-caret-position="374">
+          <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -432,23 +492,23 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Design/front/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
+        <state relative-caret-position="384">
           <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.php">
+    <entry file="file://$PROJECT_DIR$/printy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="154" column="29" lean-forward="false" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
           <folding />
         </state>
       </provider>
