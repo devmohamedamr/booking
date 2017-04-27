@@ -2,53 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f1439a2-dfc2-45ea-8319-400477ea5b33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/all.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/dashbord.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/dola.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/ola.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/index2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/pages/examples/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/pages/examples/register.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/starter.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/dist/js/pages/dashboard.js" afterPath="$PROJECT_DIR$/Design/back/dist/js/pages/dashboard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/buttons.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/buttons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/general.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/general.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/icons.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/icons.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/modals.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/modals.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/sliders.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/sliders.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/timeline.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/timeline.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/calendar.html" afterPath="$PROJECT_DIR$/Design/back/pages/calendar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/chartjs.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/chartjs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/flot.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/flot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/inline.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/inline.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/morris.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/morris.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/404.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/500.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/500.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/blank.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/blank.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/invoice-print.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/invoice-print.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/invoice.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/invoice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/lockscreen.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/lockscreen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/pace.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/pace.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/profile.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/forms/advanced.html" afterPath="$PROJECT_DIR$/Design/back/pages/forms/advanced.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/forms/editors.html" afterPath="$PROJECT_DIR$/Design/back/pages/forms/editors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/forms/general.html" afterPath="$PROJECT_DIR$/Design/back/pages/forms/general.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/layout/boxed.html" afterPath="$PROJECT_DIR$/Design/back/pages/layout/boxed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/layout/collapsed-sidebar.html" afterPath="$PROJECT_DIR$/Design/back/pages/layout/collapsed-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/layout/fixed.html" afterPath="$PROJECT_DIR$/Design/back/pages/layout/fixed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/mailbox/compose.html" afterPath="$PROJECT_DIR$/Design/back/pages/mailbox/compose.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/mailbox/mailbox.html" afterPath="$PROJECT_DIR$/Design/back/pages/mailbox/mailbox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/mailbox/read-mail.html" afterPath="$PROJECT_DIR$/Design/back/pages/mailbox/read-mail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/tables/data.html" afterPath="$PROJECT_DIR$/Design/back/pages/tables/data.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/tables/simple.html" afterPath="$PROJECT_DIR$/Design/back/pages/tables/simple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/widgets.html" afterPath="$PROJECT_DIR$/Design/back/pages/widgets.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/front/index.html" afterPath="$PROJECT_DIR$/Design/front/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post.php" afterPath="$PROJECT_DIR$/post.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/printy.php" afterPath="$PROJECT_DIR$/printy.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/all.php" afterPath="$PROJECT_DIR$/admin/all.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/dashbord.php" afterPath="$PROJECT_DIR$/admin/dashbord.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/dola.php" afterPath="$PROJECT_DIR$/admin/dola.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/ola.php" afterPath="$PROJECT_DIR$/admin/ola.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logout.php" afterPath="$PROJECT_DIR$/logout.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,40 +23,40 @@
       <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="243">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <marker date="1493329840950" expanded="true" signature="1027:1099" ph="SELECT * FRO... users" />
+                <marker date="1493332985395" expanded="true" signature="981:1053" ph="SELECT * FRO... users" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design/front/index.html">
+      <file leaf-file-name="all.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/all.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2033">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="594">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="printy.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/printy.php">
+      <file leaf-file-name="dola.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/dola.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="241" column="4" lean-forward="false" selection-start-line="241" selection-start-column="4" selection-end-line="241" selection-end-column="4" />
+            <state relative-caret-position="513">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design/back/login.html">
+      <file leaf-file-name="ola.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/ola.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+            <state relative-caret-position="594">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,15 +91,17 @@
         <option value="$PROJECT_DIR$/start.php" />
         <option value="$PROJECT_DIR$/pdf.php" />
         <option value="$PROJECT_DIR$/Printy.php" />
-        <option value="$PROJECT_DIR$/admin/dola.php" />
-        <option value="$PROJECT_DIR$/admin/ola.php" />
         <option value="$PROJECT_DIR$/admin/login.php" />
         <option value="$PROJECT_DIR$/Design/back/login.html" />
-        <option value="$PROJECT_DIR$/logout.php" />
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/post.php" />
         <option value="$PROJECT_DIR$/Design/front/index.html" />
         <option value="$PROJECT_DIR$/printy.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/admin/ola.php" />
+        <option value="$PROJECT_DIR$/admin/dola.php" />
+        <option value="$PROJECT_DIR$/admin/dashbord.php" />
+        <option value="$PROJECT_DIR$/admin/all.php" />
       </list>
     </option>
   </component>
@@ -196,11 +158,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Design" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -214,7 +172,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Design" />
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -341,12 +299,12 @@
       <updated>1493221105858</updated>
       <workItem from="1493221109132" duration="32445000" />
       <workItem from="1493293139873" duration="1263000" />
-      <workItem from="1493303390685" duration="10756000" />
+      <workItem from="1493303390685" duration="12900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44464000" />
+    <option name="totallyTimeSpent" value="46608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -380,7 +338,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -444,13 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/rb.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Design/front/thanks.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -505,46 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/all.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/dashbord.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/dola.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/ola.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/start.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -553,28 +464,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <marker date="1493329840950" expanded="true" signature="1027:1099" ph="SELECT * FRO... users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design/back/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -587,6 +480,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/printy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="241" column="4" lean-forward="false" selection-start-line="241" selection-start-column="4" selection-end-line="241" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Design/front/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2033">
@@ -595,10 +496,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/printy.php">
+    <entry file="file://$PROJECT_DIR$/logout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="241" column="4" lean-forward="false" selection-start-line="241" selection-start-column="4" selection-end-line="241" selection-end-column="4" />
+        <state relative-caret-position="135">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/rb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1493332985395" expanded="true" signature="981:1053" ph="SELECT * FRO... users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/dola.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/all.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design/back/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/dashbord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ola.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>

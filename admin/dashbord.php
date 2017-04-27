@@ -1,7 +1,24 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: PC GAMER
- * Date: 27/04/2017
- * Time: 09:46 م
- */
+
+if(!isset($_SESSION))
+{
+    session_start();
+}
+require '../start.php';
+//-----------------check---------
+
+if(!check()) {
+    header("LOCATION:../login.php");
+}elseif(check()) {
+    $dola = $_SESSION['user'][0]['username'] =='dola';
+    $ola = $_SESSION['user'][0]['username'] =='ola';
+    $mohamedamr = $_SESSION['user'][0]['username'] =='mohamedamr';
+    if($ola)
+    {
+        header("LOCATION:ola.php");
+    }elseif($dola)
+    {
+        header("LOCATION:dola.php");
+    }
+}
+

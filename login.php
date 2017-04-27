@@ -1,4 +1,5 @@
 <?php
+
 if(!isset($_SESSION))
 {
     session_start();
@@ -12,17 +13,15 @@ if(check()) {
     $mohamedamr = $_SESSION['user'][0]['username'] =='mohamedamr';
     if($ola)
     {
-        header("LOCATION:guest/welcome.php");
+        header("LOCATION:admin/ola.php");
     }elseif($dola)
     {
-        header("LOCATION:instructor/welcome.php");
+        header("LOCATION:admin/dola.php");
     }elseif($mohamedamr)
     {
-        header("LOCATION:admin/welcome.php");
+        header("LOCATION:admin/all.php");
     }
 }
-
-//print_r($_SESSION['user']);
 
 //-------------validation-------------------
 $validation = new \Hispanic\Validation();
@@ -47,11 +46,11 @@ if(count($_POST)>0) {
             $_SESSION['user'] = $data;
             $permission = $_SESSION['user'][0]['username'];
             if($permission == 'ola') {
-                header("LOCATION:guest/start.php");
+                header("LOCATION:admin/ola.php");
             } elseif ($permission == 'dola') {
-                header("LOCATION:instructor/welcome.php");
+                header("LOCATION:admin/dola.php");
             } elseif ($permission == 'mohamedamr') {
-                header("LOCATION:Admin/welcome.php");
+                header("LOCATION:admin/all.php");
             }
         }
 
