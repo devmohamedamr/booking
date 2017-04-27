@@ -25,12 +25,11 @@ if(count($_POST)>0)
         $_SESSION['id'] = $uniqid;
 
         $name = $_POST['name'];
-        $ename = $_POST['ename'];
         $number = $_POST['number'];
         $phone =  $_POST['phone'];
         $gender = $_POST['gender'];
         $size = $_POST['size'];
-        $_SESSION['ename'] = $ename;
+        $_SESSION['name'] = $name;
         $_SESSION['phone'] = $phone;
         $_SESSION['size'] = $size;
         //chekbox
@@ -62,7 +61,6 @@ if(count($_POST)>0)
 
     $data->uniqid = $uniqid;
     $data->fullname = $name;
-    $data->ename = $ename;
     $data->groupnum = $number;
     $data->phone = $phone;
     $data->gender = $gender;
@@ -71,4 +69,4 @@ if(count($_POST)>0)
     R::store($data);
 }
 //---------------view all interest-------
-header("LOCATION:pdf.php");
+header("LOCATION:printy.php");
