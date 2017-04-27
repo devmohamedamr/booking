@@ -9,6 +9,7 @@ $rules  = array(
     'number'=>'required|min_length:4|max_length:20',
     'phone'=>'required|min_length:4|max_length:20',
     'gender'=>'required',
+    'organizer'=>'required',
     'size'=>'required',
     't-shirt'=>'min_length:4|max_length:20',
     'color'=>'min_length:4|max_length:20',
@@ -23,15 +24,16 @@ if(count($_POST)>0)
     $data = R::dispense('book');
         $uniqid = uniqid();
         $_SESSION['id'] = $uniqid;
-
         $name = $_POST['name'];
         $number = $_POST['number'];
         $phone =  $_POST['phone'];
         $gender = $_POST['gender'];
         $size = $_POST['size'];
+        $organizer = $_POST['organizer'];
         $_SESSION['name'] = $name;
         $_SESSION['phone'] = $phone;
         $_SESSION['size'] = $size;
+        $_SESSION['organizer'] = $organizer;
         //chekbox
         if(isset($_POST['t-shirt'])>0)
         {
@@ -65,6 +67,7 @@ if(count($_POST)>0)
     $data->phone = $phone;
     $data->gender = $gender;
     $data->size = $size;
+    $data->organizer = $organizer;
 
     R::store($data);
 }

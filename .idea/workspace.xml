@@ -2,108 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f1439a2-dfc2-45ea-8319-400477ea5b33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/background-variant.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/border-radius.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/center-block.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/clearfix.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/gradients.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/grid-framework.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/hide-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/image.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/nav-divider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/nav-vertical-align.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/opacity.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/progress-bar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/reset-filter.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/reset-text.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/resize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/responsive-visibility.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/size.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/tab-focus.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/table-row.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/text-emphasis.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/text-overflow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/mixins/vendor-prefixes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/bootstrap-less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/.csslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/404_500_errors.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/AdminLTE.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/bootstrap-social.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/boxes.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/callout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/control-sidebar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/direct-chat.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/dropdown.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/fullcalendar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/header.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/info-box.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/invoice.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/lockscreen.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/login_and_register.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/mailbox.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/miscellaneous.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/modal.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/products.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/profile.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/select2.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/sidebar-mini.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/sidebar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/_all-skins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-black-light.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-black.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-blue-light.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-blue.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-green-light.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-green.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-purple-light.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-purple.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-red-light.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-red.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-yellow-light.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/skins/skin-yellow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/small-box.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/social-widgets.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/table.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/timeline.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/users-list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/build/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/changelog.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/back/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/all.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/dashbord.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/dola.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/ola.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logout.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/pages/examples/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/pages/examples/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Design/back/starter.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/dist/js/pages/dashboard.js" afterPath="$PROJECT_DIR$/Design/back/dist/js/pages/dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/buttons.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/buttons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/general.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/general.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/icons.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/icons.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/modals.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/modals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/sliders.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/sliders.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/UI/timeline.html" afterPath="$PROJECT_DIR$/Design/back/pages/UI/timeline.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/calendar.html" afterPath="$PROJECT_DIR$/Design/back/pages/calendar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/chartjs.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/chartjs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/flot.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/flot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/inline.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/inline.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/charts/morris.html" afterPath="$PROJECT_DIR$/Design/back/pages/charts/morris.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/404.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/500.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/blank.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/blank.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/invoice-print.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/invoice-print.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/invoice.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/invoice.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/lockscreen.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/lockscreen.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/pace.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/pace.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/examples/profile.html" afterPath="$PROJECT_DIR$/Design/back/pages/examples/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/forms/advanced.html" afterPath="$PROJECT_DIR$/Design/back/pages/forms/advanced.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/forms/editors.html" afterPath="$PROJECT_DIR$/Design/back/pages/forms/editors.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/forms/general.html" afterPath="$PROJECT_DIR$/Design/back/pages/forms/general.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/layout/boxed.html" afterPath="$PROJECT_DIR$/Design/back/pages/layout/boxed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/layout/collapsed-sidebar.html" afterPath="$PROJECT_DIR$/Design/back/pages/layout/collapsed-sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/layout/fixed.html" afterPath="$PROJECT_DIR$/Design/back/pages/layout/fixed.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/mailbox/compose.html" afterPath="$PROJECT_DIR$/Design/back/pages/mailbox/compose.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/mailbox/mailbox.html" afterPath="$PROJECT_DIR$/Design/back/pages/mailbox/mailbox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/mailbox/read-mail.html" afterPath="$PROJECT_DIR$/Design/back/pages/mailbox/read-mail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/tables/data.html" afterPath="$PROJECT_DIR$/Design/back/pages/tables/data.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/tables/simple.html" afterPath="$PROJECT_DIR$/Design/back/pages/tables/simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/back/pages/widgets.html" afterPath="$PROJECT_DIR$/Design/back/pages/widgets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/front/index.html" afterPath="$PROJECT_DIR$/Design/front/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/post.php" afterPath="$PROJECT_DIR$/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/printy.php" afterPath="$PROJECT_DIR$/printy.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -114,7 +59,50 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding>
+                <marker date="1493329840950" expanded="true" signature="1027:1099" ph="SELECT * FRO... users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Design/front/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2033">
+              <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printy.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/printy.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="241" column="4" lean-forward="false" selection-start-line="241" selection-start-column="4" selection-end-line="241" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Design/back/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="806">
+              <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -143,8 +131,15 @@
         <option value="$PROJECT_DIR$/start.php" />
         <option value="$PROJECT_DIR$/pdf.php" />
         <option value="$PROJECT_DIR$/Printy.php" />
-        <option value="$PROJECT_DIR$/Design/front/index.html" />
+        <option value="$PROJECT_DIR$/admin/dola.php" />
+        <option value="$PROJECT_DIR$/admin/ola.php" />
+        <option value="$PROJECT_DIR$/admin/login.php" />
+        <option value="$PROJECT_DIR$/Design/back/login.html" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/post.php" />
+        <option value="$PROJECT_DIR$/Design/front/index.html" />
+        <option value="$PROJECT_DIR$/printy.php" />
       </list>
     </option>
   </component>
@@ -161,7 +156,9 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -189,6 +186,38 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="event" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="event" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="event" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="event" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Design" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -199,7 +228,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../street" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -211,6 +240,8 @@
       <recent name="C:\xampp\htdocs\event\Design\image" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\event\" />
+      <recent name="C:\xampp\htdocs\event\admin" />
       <recent name="C:\xampp\htdocs\event\Design\front" />
     </key>
   </component>
@@ -310,17 +341,18 @@
       <updated>1493221105858</updated>
       <workItem from="1493221109132" duration="32445000" />
       <workItem from="1493293139873" duration="1263000" />
-      <workItem from="1493303390685" duration="5532000" />
+      <workItem from="1493303390685" duration="10756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39240000" />
+    <option name="totallyTimeSpent" value="44464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15991472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15991472" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -328,7 +360,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -457,14 +489,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Design/front/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -481,11 +505,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/post.php">
+    <entry file="file://$PROJECT_DIR$/admin/all.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="56" column="19" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+        <state relative-caret-position="162">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/dashbord.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/dola.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/ola.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="12" lean-forward="false" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <marker date="1493329840950" expanded="true" signature="1027:1099" ph="SELECT * FRO... users" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -497,18 +571,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Design/back/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Design/front/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="52" column="22" lean-forward="false" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="22" />
+        <state relative-caret-position="-2033">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/printy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="154" column="29" lean-forward="false" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
+        <state relative-caret-position="515">
+          <caret line="241" column="4" lean-forward="false" selection-start-line="241" selection-start-column="4" selection-end-line="241" selection-end-column="4" />
           <folding />
         </state>
       </provider>

@@ -115,8 +115,23 @@ if( isset($_SESSION['kalket'])>0)
                 }
 
                 ?><br>
+
+                    <br>
             </div>
-            <!-- /.col -->
+
+            <div class="col-sm-4 invoice-col">
+
+                <b>اسم المشرف :</b> <?php
+
+                if (isset($_SESSION['organizer'])>0)
+                {
+                    echo  $organizer = $_SESSION['organizer'];
+                }
+
+                ?>
+            </div>
+
+                <!-- /.col -->
         </div>
         <!-- /.row -->
 
@@ -219,11 +234,13 @@ if( isset($_SESSION['kalket'])>0)
                 <img src="Design/front/image/sh.png" width="100" alt="">
 
                 <p class="text-muted well well-sm no-shadow arabic2" style="margin-top: 10px;">
-لو عاوز تعرف ميعاد الدفع و ميعاد تسليم الطلب تواصل مع  المنظمين  :)                </p>
+لو عاوز تعرف ميعاد الدفع و ميعاد تسليم الطلب تواصل مع  المشرف الى انت حدته في الاستمارة شكرا  :)                </p>
             </div>
             <!-- /.col -->
             <!-- /.col -->
         </div>
+<br>
+        <p class="lead arabic1">امضاء المشرف :</p>
         <!-- /.row -->
     </section>
     <!-- /.content -->
