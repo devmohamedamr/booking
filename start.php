@@ -1,7 +1,7 @@
 <?php
 //root
 define('ROOT',dirname(__FILE__));
-define('DESIGN',ROOT.'/Design');
+define('DESIGN',ROOT.'/design');
 define('FRONT',DESIGN.'/front');
 define('BACK',DESIGN.'/back');
 define('ADMIN',ROOT.'/admin');
