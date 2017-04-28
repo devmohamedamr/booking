@@ -15,7 +15,7 @@ class PDF extends FPDF
     {
 
         // Logo
-        $this->Image('Design/front/image/aRCHERY.3.jpg',10,6,50);
+        $this->Image('design/front/image/aRCHERY.3.jpg',10,6,50);
         // Arial bold 15
         $this->SetFont('Arial','B',15);
         // Move to the right
@@ -35,8 +35,8 @@ class PDF extends FPDF
         $this->SetFont('Arial','B',15);
         // Page number
         //$this->Cell(0,10,'Page '.$this->PageNo().'/{nb}',0,0,'C');
-        $this->Image('Design/front/image/cs.png',100,150,30);
-        $this->Image('Design/front/image/sh.png',50,150,30);
+        $this->Image('design/front/image/cs.png',100,150,30);
+        $this->Image('design/front/image/sh.png',50,150,30);
     }
 }
 
@@ -68,4 +68,4 @@ class PDF extends FPDF
     }
     $pdf->Cell(70,50,'sponsors ',0,5);
     $pdf->Output();
-//Design/front/image/aRCHERY.3.jpg
+//design/front/image/aRCHERY.3.jpg

@@ -47,8 +47,8 @@ if( isset($_SESSION['kalket'])>0)
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.6 -->
-    <link rel="stylesheet" href="Design/front/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="Design/front/css/style.css">
+    <link rel="stylesheet" href="design/front/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="design/front/css/style.css">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
     <!-- Ionicons -->
@@ -73,7 +73,7 @@ if( isset($_SESSION['kalket'])>0)
         <div class="row">
             <div class="col-xs-12">
                 <h2 class="page-header ">
-                    <img src="Design/front/image/aRCHERY.3.jpg" width="180" alt="">
+                    <img src="design/front/image/aRCHERY.3.jpg" width="180" alt="">
                 </h2>
             </div>
             <!-- /.col -->
@@ -229,9 +229,9 @@ if( isset($_SESSION['kalket'])>0)
             <!-- accepted payments column -->
             <div class="col-xs-6">
                 <p class="lead arabic1">الشركاء:</p>
-                <img src="Design/front/image/aRCHERY.3.jpg" width="100" alt="">
-                <img src="Design/front/image/cs.png" width="100" alt="">
-                <img src="Design/front/image/sh.png" width="100" alt="">
+                <img src="design/front/image/aRCHERY.3.jpg" width="100" alt="">
+                <img src="design/front/image/cs.png" width="100" alt="">
+                <img src="design/front/image/sh.png" width="100" alt="">
 
                 <p class="text-muted well well-sm no-shadow arabic2" style="margin-top: 10px;">
 لو عاوز تعرف ميعاد الدفع و ميعاد تسليم الطلب تواصل مع  المشرف الى انت حدته في الاستمارة شكرا  :)                </p>
@@ -242,6 +242,9 @@ if( isset($_SESSION['kalket'])>0)
 <br>
         <p class="lead arabic1">امضاء المشرف :</p>
         <!-- /.row -->
+        <br>
+
+        <p class="lead arabic1">اختار لون للتي شيرت (ابيض او رمادي ) ؟ </p>
     </section>
     <!-- /.content -->
 </div>
