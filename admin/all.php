@@ -24,6 +24,8 @@ $users = R::getAll( "SELECT * FROM book " );
 $all = count(R::getAll( "SELECT * FROM book  " ));
 $male = count(R::getAll( "SELECT * FROM book WHERE  gender = 'Male' " ));
 $female = count(R::getAll( "SELECT * FROM book WHERE   gender = 'Female' " ));
+$dola = count(R::getAll( "SELECT * FROM book WHERE organizer = 'اعتدال' " ));
+$ola = count(R::getAll( "SELECT * FROM book WHERE organizer = 'علا' " ));
 //------------------------------validation--------------------------
 require BACK . '/headeradmin.html';
 require BACK . '/all.html';
