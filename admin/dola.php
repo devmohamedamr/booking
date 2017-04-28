@@ -22,3 +22,11 @@ if(!check()) {
         header("LOCATION:all.php");
     }
 }
+$users = R::getAll( "SELECT * FROM book WHERE organizer = 'اعتدال' " );
+$all = count(R::getAll( "SELECT * FROM book WHERE organizer = 'اعتدال' " ));
+$male = count(R::getAll( "SELECT * FROM book WHERE organizer = 'اعتدال' && gender = 'Male' " ));
+$female = count(R::getAll( "SELECT * FROM book WHERE organizer = 'اعتدال' && gender = 'Female' " ));
+//------------------------------validation--------------------------
+require BACK . '/headeradmin.html';
+require BACK . '/dola.html';
+require BACK . '/footeradmin.html';

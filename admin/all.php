@@ -20,3 +20,11 @@ if(!check()) {
         header("LOCATION:dola.php");
     }
 }
+$users = R::getAll( "SELECT * FROM book " );
+$all = count(R::getAll( "SELECT * FROM book  " ));
+$male = count(R::getAll( "SELECT * FROM book WHERE  gender = 'Male' " ));
+$female = count(R::getAll( "SELECT * FROM book WHERE   gender = 'Female' " ));
+//------------------------------validation--------------------------
+require BACK . '/headeradmin.html';
+require BACK . '/all.html';
+require BACK . '/footeradmin.html';

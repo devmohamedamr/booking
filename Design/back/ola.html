@@ -3,8 +3,8 @@
 
     <section class="content-header">
         <h1>
-            all students page
-            <small>it all starts here</small>
+            كل المعلومات للمنسق
+
         </h1>
         <ol class="breadcrumb">
             <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
@@ -13,6 +13,56 @@
         </ol>
     </section>
     <section class="content">
+
+        <div>
+            <section class="content">
+                <!-- Small boxes (Stat box) -->
+                <div class="row">
+                    <div class="col-lg-3 col-xs-6">
+                        <!-- small box -->
+                        <div class="small-box bg-green">
+                            <div class="inner">
+                                <h3><?php echo $all; ?></h3>
+
+                                <h3>عدد الكل</h3>
+                            </div>
+                            <div class="icon">
+                                <i class="fa fa-graduation-cap"></i>
+                            </div>
+                            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- ./col -->
+                    <div class="col-lg-3 col-xs-6">
+                        <!-- small box -->
+                        <div class="small-box bg-aqua">
+                            <div class="inner">
+                                <h3><?php echo $male; ?></h3>
+
+                                <h3>شباب</h3>
+                            </div>
+                            <div class="icon">
+                                <i class="fa fa-user"></i>
+                            </div>
+                            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- ./col -->
+                    <div class="col-lg-3 col-xs-6">
+                        <!-- small box -->
+                        <div class="small-box bg-red">
+                            <div class="inner">
+                                <h3><?php echo $female; ?></h3>
+
+                                <h3>بنات</h3>
+                            </div>
+                            <div class="icon">
+                                <i class="fa fa-user"></i>
+                            </div>
+                            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+        </div>
 
 <!-- DataTables -->
 
@@ -36,6 +86,7 @@
                 <th>رقم المجموعة</th>
                 <th>رقم التلفون</th>
                 <th>النوع</th>
+                <th>حجم التي شيرت</th>
             </tr>
             </thead>
             <?php  if(count($users)>0) { ?>
@@ -46,6 +97,7 @@
                 <td><?php echo $l['groupnum']; ?></td>
                 <td><?php echo $l['phone']; ?></td>
                 <td><?php echo $l['gender']; ?></td>
+                <td><?php echo $l['size']; ?></td>
                 <?php } ?>
             </tr>
             <?php  }else{ echo '' ;} ?>
@@ -56,6 +108,7 @@
                 <th>رقم المجموعة</th>
                 <th>رقم التلفون</th>
                 <th>النوع</th>
+                <th>حجم التي شيرت</th>
             </tr>
             </tfoot>
         </table>

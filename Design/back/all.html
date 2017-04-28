@@ -1,0 +1,121 @@
+
+<div class="content-wrapper">
+
+    <section class="content-header">
+        <h1>
+            كل المعلومات
+
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li><a href="#">Examples</a></li>
+            <li class="active">Blank page</li>
+        </ol>
+    </section>
+    <section class="content">
+
+        <div>
+            <section class="content">
+                <!-- Small boxes (Stat box) -->
+                <div class="row">
+                    <div class="col-lg-3 col-xs-6">
+                        <!-- small box -->
+                        <div class="small-box bg-green">
+                            <div class="inner">
+                                <h3><?php echo $all; ?></h3>
+
+                                <h3>عدد الكل</h3>
+                            </div>
+                            <div class="icon">
+                                <i class="fa fa-graduation-cap"></i>
+                            </div>
+                            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- ./col -->
+                    <div class="col-lg-3 col-xs-6">
+                        <!-- small box -->
+                        <div class="small-box bg-aqua">
+                            <div class="inner">
+                                <h3><?php echo $male; ?></h3>
+
+                                <h3>شباب</h3>
+                            </div>
+                            <div class="icon">
+                                <i class="fa fa-user"></i>
+                            </div>
+                            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                    <!-- ./col -->
+                    <div class="col-lg-3 col-xs-6">
+                        <!-- small box -->
+                        <div class="small-box bg-red">
+                            <div class="inner">
+                                <h3><?php echo $female; ?></h3>
+
+                                <h3>بنات</h3>
+                            </div>
+                            <div class="icon">
+                                <i class="fa fa-user"></i>
+                            </div>
+                            <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- DataTables -->
+
+                <div class="box" xmlns="http://www.w3.org/1999/html">
+                    <div class="box-header">
+                        <h3 class="box-title">Data Table With Full Features</h3>
+                    </div>
+                    <!-- /.box-header -->
+
+                    <center>
+                        <a onclick='window.location.reload();' >
+                            <i class="fa fa-refresh  btn btn-success">  Refresh</i>
+                        </a>
+                    </center>
+
+                    <div class="box-body">
+                        <table id="mydata" class="table table-bordered table-striped">
+                            <thead>
+                            <tr>
+                                <th>الاسم كامل </th>
+                                <th>رقم المجموعة</th>
+                                <th>رقم التلفون</th>
+                                <th>النوع</th>
+                                <th>حجم التي شيرت</th>
+                            </tr>
+                            </thead>
+                            <?php  if(count($users)>0) { ?>
+                            <tbody>
+                            <?php  foreach($users as $l) { ?>
+                            <tr>
+                                <td><?php echo $l['fullname']; ?></td>
+                                <td><?php echo $l['groupnum']; ?></td>
+                                <td><?php echo $l['phone']; ?></td>
+                                <td><?php echo $l['gender']; ?></td>
+                                <td><?php echo $l['size']; ?></td>
+                                <?php } ?>
+                            </tr>
+                            <?php  }else{ echo '' ;} ?>
+                            </tbody>
+                            <tfoot>
+                            <tr>
+                                <th>الاسم كامل </th>
+                                <th>رقم المجموعة</th>
+                                <th>رقم التلفون</th>
+                                <th>النوع</th>
+                                <th>حجم التي شيرت</th>
+                            </tr>
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+                <!-- DataTables -->
+                <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-2.2.4/dt-1.10.13/datatables.min.js"></script>
+                <script>
+                    $('#mydata').DataTable();
+                </script>

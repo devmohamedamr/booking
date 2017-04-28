@@ -20,7 +20,10 @@ if(!check()) {
         header("LOCATION:all.php");
     }
 }
-$users = R::getAll( "SELECT * FROM book WHERE organizer = 'علا' && gender = 'Male' " );
+$users = R::getAll( "SELECT * FROM book WHERE organizer = 'علا' " );
+$all = count(R::getAll( "SELECT * FROM book WHERE organizer = 'علا' " ));
+$male = count(R::getAll( "SELECT * FROM book WHERE organizer = 'علا' && gender = 'Male' " ));
+$female = count(R::getAll( "SELECT * FROM book WHERE organizer = 'علا' && gender = 'Female' " ));
 //------------------------------validation--------------------------
 require BACK . '/headeradmin.html';
 require BACK . '/ola.html';
