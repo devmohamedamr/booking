@@ -20,4 +20,8 @@ if(!check()) {
         header("LOCATION:all.php");
     }
 }
-
+$users = R::getAll( "SELECT * FROM book WHERE organizer = 'علا' && gender = 'Male' " );
+//------------------------------validation--------------------------
+require BACK . '/headeradmin.html';
+require BACK . '/ola.html';
+require BACK . '/footeradmin.html';
